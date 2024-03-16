@@ -1,0 +1,13 @@
+Pour compiler le jeu, il faut exécuter la commande suivante:
+
+--> javac Main.java
+
+Pour lancer le jeu:
+
+--> java Main
+
+
+/***********************************/
+
+Il faut noter qu'il existe une manière plus poussée pour compiler
+mais ce n'est pas trop l'objet de ce projet ici.
